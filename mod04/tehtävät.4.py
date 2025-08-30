@@ -84,6 +84,8 @@ while yritykset < 5:
 if yritykset == 5:
     print("Kokeilukerrat loppu!")
 
+#tehtävä-6
+
 import random
 
 # kaikkien pisteiden määrä N
